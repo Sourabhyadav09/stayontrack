@@ -1,0 +1,6 @@
+{
+  "name": "StayOnTrack",
+  "description": "An AI accountability companion that verifies task completion using image evidence.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
